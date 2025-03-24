@@ -1,4 +1,4 @@
-# Spotifyi-Clone Using Css
+# Spotify-Clone Using Css
 
 ### Learn More through this Projects 
 
